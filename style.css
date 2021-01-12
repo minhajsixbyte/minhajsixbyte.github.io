@@ -1,0 +1,17 @@
+body {
+	color: black;
+	background: #bbdbdd;
+
+	max-width: 950px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+}
+
+h2 {
+	color: green;
+}
